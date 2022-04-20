@@ -5,20 +5,20 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-04-05T22:00:03+02:00"
+    "CreationDate": "2022-04-20T16:30:08+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Vectrex Pad miniNeoGeo",
       "GUID": "56656374-7265-4782-9050-6164206d696e",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 137.2024,
       "Y": 62.44
     },
     "LayerNumber": 2,
-    "BoardThickness": 1.6,
+    "BoardThickness": 1.2,
     "Finish": "None"
   },
   "DesignRules": [
@@ -77,6 +77,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "White",
       "Name": "Top Silk Screen"
     },
     {
@@ -85,6 +86,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Blue",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -95,7 +97,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
+      "Thickness": 1.11,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
@@ -107,11 +109,13 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Blue",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
       "Type": "Legend",
+      "Color": "White",
       "Name": "Bottom Silk Screen"
     }
   ]
