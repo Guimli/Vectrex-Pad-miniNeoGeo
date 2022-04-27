@@ -1,4 +1,4 @@
-### Module positions - created on Wed Apr 20 16:30:31 2022 ###
+### Module positions - created on Thu Apr 21 22:49:48 2022 ###
 ### Printed by Pcbnew version (6.0.0)
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -12,10 +12,9 @@
                                                  -56.1814   -16.2826    0.0000  top
                                                   31.0086    22.6474    0.0000  top
                                                  -63.6114    -4.3126    0.0000  top
-C1        100nF      C_0805_2012Metric           129.5400   -82.5500    0.0000  top
 C2        10nF       C_0805_2012Metric           125.7300   -90.1700   90.0000  top
 C3        470nf      C_0805_2012Metric           133.3500   -90.1700  -90.0000  top
-C4        100nF      C_0805_2012Metric           133.3500   -85.0900  -90.0000  top
+C4        100nF      C_0805_2012Metric           133.3500   -84.4550  -90.0000  top
 C5        100nF      C_0805_2012Metric           133.3500   -77.4700  -90.0000  top
 G***      LOGO       vectrex-us-silkscreen       116.8908   -67.8942    0.0000  top
 R1        1k         R_0805_2012Metric           164.4650   -77.4700    0.0000  top
