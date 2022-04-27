@@ -4,9 +4,9 @@ Allows you to convert a NeoGeo mini controller into a Vectrex controller.
 
 This PCB reuses the analog pad of the NeoGeo mini controller. You will have to unsolder it from the original PCB.
 
-![PCB Top](Vectrex Pad miniNeoGeo Top.jpg)
+![PCB Top](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Vectrex%20Pad%20miniNeoGeo%20Top.jpg)
 
-![PCB Bottom](Vectrex Pad miniNeoGeo Bottom.jpg)
+![PCB Bottom](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Vectrex%20Pad%20miniNeoGeo%20Bottom.jpg)
 
 The Star and Select buttons have been replaced by an auto-fire on the A and D buttons (equivalent to the 1 and 4 button of the Vectrex controller).
 
