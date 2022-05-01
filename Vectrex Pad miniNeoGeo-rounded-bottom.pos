@@ -1,19 +1,6 @@
-### Module positions - created on Wed Apr 27 06:18:42 2022 ###
+### Module positions - created on Sun May  1 02:26:55 2022 ###
 ### Printed by Pcbnew version (6.0.0)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
-# Ref     Val         Package                                       PosX       PosY       Rot  Side
-J1        DB9_Female  DB9                                      -165.1000   -71.1200  180.0000  bottom
-RV1       1k          Potentiometer_ACP_CA9-V10_Vertical_Hole  -170.1000   -85.0250  180.0000  bottom
-RV2       1k          Potentiometer_ACP_CA9-V10_Vertical_Hole  -192.9750   -96.6000  -90.0000  bottom
-RV3       1k          Potentiometer_ACP_CA9-V10_Vertical_Hole  -170.1000   -95.1850  180.0000  bottom
-RV4       1k          Potentiometer_ACP_CA9-V10_Vertical_Hole  -182.8150   -95.3300  -90.0000  bottom
-RV5       1M          Potentiometer_ACP_CA9-V10_Vertical_Hole  -128.2700  -103.2256  -172.0000  bottom
-SW1       SW_Push     Silicon_Button_5mm_Medium                -126.4158   -69.9770  180.0000  bottom
-SW2       SW_Push     Silicon_Button_5mm_Medium                -117.2972   -86.3600  180.0000  bottom
-SW3       SW_Push     Silicon_Button_5mm_Medium                -110.1598   -60.4774  180.0000  bottom
-SW4       SW_Push     Silicon_Button_5mm_Medium                -100.7872   -76.9620  180.0000  bottom
-SW5       SW_DP3T     OS203011MS1QP1                           -148.1215   -76.1745  147.9000  bottom
-SW6       SW_DP3T     OS203011MS1QP1                           -148.1470   -93.2513  147.9000  bottom
-VR1       F-2116      F-2116                                   -190.5000   -76.2000  180.0000  bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
 ## End
