@@ -20,4 +20,4 @@ The Star and Select buttons have been replaced by an auto-fire on the A and D bu
 
 The electronics used for auto-fire are optional. You just have to place a jump on the switches.
 
-The electronics are positioned on one side only to facilitate factory production.
+The SMD electronics are positioned on one side only to facilitate factory production.
