@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0)"
     },
-    "CreationDate": "2022-05-01T02:25:44+02:00"
+    "CreationDate": "2022-05-12T16:49:30+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Vectrex Pad miniNeoGeo",
       "GUID": "56656374-7265-4782-9050-6164206d696e",
-      "Revision": "1.1"
+      "Revision": "1.2"
     },
     "Size": {
       "X": 137.2024,
@@ -24,9 +24,9 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
-      "TrackToTrack": 0.2,
+      "PadToPad": 0.01,
+      "PadToTrack": 0.01,
+      "TrackToTrack": 0.01,
       "MinLineWidth": 0.35,
       "TrackToRegion": 0.6,
       "RegionToRegion": 0.6
