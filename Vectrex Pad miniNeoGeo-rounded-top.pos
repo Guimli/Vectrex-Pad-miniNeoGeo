@@ -1,5 +1,5 @@
-### Module positions - created on Thu May 12 16:52:14 2022 ###
-### Printed by Pcbnew version (6.0.0)
+### Module positions - created on Tue May 24 16:02:44 2022 ###
+### Printed by Pcbnew version (6.99.0-1875-gfe1a5267a2)
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val        Package                         PosX       PosY       Rot  Side
@@ -18,10 +18,10 @@ C3        470nf      C_0805_2012Metric           133.3500   -90.1700  -90.0000  
 C4        100nF      C_0805_2012Metric           133.3500   -85.0900  -90.0000  top
 C5        100nF      C_0805_2012Metric           137.1600   -73.0250    0.0000  top
 G***      LOGO       vectrex-us-silkscreen       111.1250   -72.3900   45.0000  top
-R1        470        R_0805_2012Metric           164.4650   -77.4700    0.0000  top
-R2        470        R_0805_2012Metric           160.0200   -77.4700  180.0000  top
-R3        470        R_0805_2012Metric           173.9900   -85.7250   90.0000  top
-R4        470        R_0805_2012Metric           177.8000   -85.7250   90.0000  top
+R1        330        R_0805_2012Metric           164.4650   -77.4700    0.0000  top
+R2        330        R_0805_2012Metric           160.0200   -77.4700  180.0000  top
+R3        820        R_0805_2012Metric           174.6250   -87.6300  180.0000  top
+R4        820        R_0805_2012Metric           174.6250   -78.7400  180.0000  top
 R5        10k        R_0805_2012Metric           130.8100   -93.9800  180.0000  top
 R6        470k       R_0805_2012Metric           132.7150   -81.9150  180.0000  top
 R7        470k       R_0805_2012Metric           134.6200   -69.8500  -90.0000  top
