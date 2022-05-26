@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.99.0-1875-gfe1a5267a2)*%
-%TF.CreationDate,2022-05-24T17:02:43+02:00*%
+%TF.CreationDate,2022-05-26T15:01:28+02:00*%
 %TF.ProjectId,Vectrex Pad miniNeoGeo-rounded,56656374-7265-4782-9050-6164206d696e,1.2*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.99.0-1875-gfe1a5267a2)) date 2022-05-24 17:02:43*
+G04 Created by KiCad (PCBNEW (6.99.0-1875-gfe1a5267a2)) date 2022-05-26 15:01:28*
 %MOMM*%
 %LPD*%
 G01*
