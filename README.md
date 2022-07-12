@@ -4,6 +4,8 @@ Allows you to convert a mini NeoGeo controller into a Vectrex controller.
 
 This PCB reuses the analog pad of the mini NeoGeo controller. You will have to unsolder it from the original PCB.
 
+!!! Please note that the PCB must be 1.2mm thick !!!
+
 ![PCB Top](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Images/Vectrex%20Pad%20miniNeoGeo%20Top.jpg)
 
 ![PCB Bottom](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Images/Vectrex%20Pad%20miniNeoGeo%20Bottom.jpg)
