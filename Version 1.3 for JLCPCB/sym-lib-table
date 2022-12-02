@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Vextrec miniNeoGeo")(type "KiCad")(uri "${KIPRJMOD}/Vectrex_miniNeoGeo.kicad_sym")(options "")(descr ""))
+)

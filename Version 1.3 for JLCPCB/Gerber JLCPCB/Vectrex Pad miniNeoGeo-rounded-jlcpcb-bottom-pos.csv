@@ -1,0 +1,12 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","DB9_Female","DB9",165.100000,-71.120000,180.000000,bottom
+"RV1","1k","Potentiometer_ACP_CA9-V10_Vertical_Hole",170.100000,-85.025000,180.000000,bottom
+"RV2","1k","Potentiometer_ACP_CA9-V10_Vertical_Hole",170.100000,-95.185000,180.000000,bottom
+"RV5","470k","Potentiometer_ACP_CA9-V10_Vertical_Hole",128.270000,-103.225600,-172.000000,bottom
+"SW1","SW_Push","Silicon Button 5mm Medium",126.415800,-69.977000,180.000000,bottom
+"SW2","SW_Push","Silicon Button 5mm Medium",117.297200,-86.360000,0.000000,bottom
+"SW3","SW_Push","Silicon Button 5mm Medium",110.159800,-60.477400,180.000000,bottom
+"SW4","SW_Push","Silicon Button 5mm Medium",100.787200,-76.962000,180.000000,bottom
+"SW5","SW_DP3T","OS203011MS1QP1",148.121536,-76.174492,147.900000,bottom
+"SW6","SW_DP3T","OS203011MS1QP1",148.146957,-93.251298,147.900000,bottom
+"VR1","F-2116","F-2116",190.500000,-76.200000,180.000000,bottom
