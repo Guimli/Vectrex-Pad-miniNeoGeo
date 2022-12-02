@@ -4,4 +4,4 @@ This version 1.3 has been modified according to the availability of components a
 
 Version 1.3 also includes a switch to reverse the position of buttons 2 and 3 (B and C).
 
-![Image01](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Images/Image01.jpg)
+![Image01](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Version%201.3%20for%20JLCPCB/Gerber%20JLCPCB/Produce_DanZhi.SMT_Snapshot.Top.2647496A_P2.SMT0220822941394.png)

@@ -6,6 +6,7 @@ This PCB reuses the analog pad of the mini NeoGeo controller. You will have to u
 There are two models of the NeoGeo mini controller. One contains classic directional switches (you can hear the clicks when using the directional controller). The other one uses an analogue pad. Make sure you have the right model of controller (the one with the analogue pad) before you start making this Vectrex mod.
 
 !!! Please note that the PCB must be 1.2mm thick !!!
+
 !!! Another warning: It is essential to cut the pins of the two auto-fire switches SW5 and SW6 (OS203011MS1QP1) at the level of the PCB BEFORE soldering. This is because the plastic of the lower part of the joystick has two rings that press on this area. Over soldering in this area could block the auto-fire buttons and deform the plastic at the back.
 
 ![PCB Top](https://github.com/Guimli/Vectrex-Pad-miniNeoGeo/raw/main/Images/Vectrex%20Pad%20miniNeoGeo%20Top.jpg)
@@ -44,12 +45,12 @@ The SMD electronics are positioned on one side only to facilitate factory produc
 
 
 The colour information for the DB9 cable connection on the PCB corresponds to the colours of the cables I bought. This information helps to speed up my own production of controllers. But there is no guarantee that these colours will match the cable you bought. So I'm putting below the correspondence between pin number, function, and the silkscreen inscriptions on my PCB:
-Pin 1 - Button 1 (A) - Red
-Pin 2 - Button 2 (B) - Black
-Pin 3 - Button 3 (C) - Grey
-Pin 4 - Button 4 (D) - Orange
-Pin 5 - Horizontal   - Brun
-Pin 6 - Vertical     - Green
-Pin 7 - +5V          - White
-Pin 8 - GND          - Blue
-Pin 9 - -5V          - Yellow
+- Pin 1 - Button 1 (A) - Red
+- Pin 2 - Button 2 (B) - Black
+- Pin 3 - Button 3 (C) - Grey
+- Pin 4 - Button 4 (D) - Orange
+- Pin 5 - Horizontal   - Brun
+- Pin 6 - Vertical     - Green
+- Pin 7 - +5V          - White
+- Pin 8 - GND          - Blue
+- Pin 9 - -5V          - Yellow
